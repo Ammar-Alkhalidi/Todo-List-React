@@ -36,8 +36,9 @@ Click on the task text to mark it as completed.
 Click the edit icon to edit the text or priority, and the delete icon to remove the task.
 
 
+
+# Scripted by AMMAR ALKHALIDI
 ![Screnshoot](https://github.com/Ammar-Alkhalidi/Todo-List-React/blob/main/scripted%20by%20AMMAR.webp)
 
 
-# Scripted by AMMAR ALKHALIDI
-![Screnshoot](https://github.com/Ammar-Alkhalidi/TO-DO-DO.DO/blob/main/Screenshot%20from%202024-11-13%2015-59-48.png?raw=true)
+
